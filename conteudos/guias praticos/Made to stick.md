@@ -177,3 +177,45 @@ O quarto capítulo de "Made to Stick" aborda o princípio da credibilidade. A id
 #### Conclusão
 
 O capítulo 4 de "Made to Stick" enfatiza a importância da credibilidade para tornar as ideias mais persuasivas e memoráveis. Usar autoridades, detalhes concretos, estatísticas relevantes, exemplos impactantes e testemunhos pessoais são estratégias eficazes para construir credibilidade e fazer com que as ideias "grudem".
+
+### Capítulo 5: Emocional
+
+#### Introdução
+O quinto capítulo de "Made to Stick" explora o princípio da emoção. A ideia é que as pessoas lembram e agem com base em emoções. Para fazer uma ideia "grudar", é necessário fazer com que as pessoas se importem com ela.
+
+#### Conceitos Principais
+
+1. **A Regra da Mãe Teresa**
+   - "Se eu olhar para a massa, nunca agirei. Se eu olhar para um, agirei." Esta citação de Mãe Teresa destaca que as pessoas se conectam emocionalmente mais facilmente com indivíduos do que com grupos ou estatísticas.
+   - Exemplo: Campanhas de caridade que focam em uma única pessoa necessitada, em vez de grandes números, tendem a ser mais eficazes.
+
+2. **WIIFY (What's In It For You?)**
+   - Para engajar as pessoas, é necessário mostrar como a ideia se relaciona diretamente com elas e como elas se beneficiarão.
+   - Exemplo: Um anúncio de seguro de vida que não apenas fala sobre proteção financeira, mas mostra uma família sendo cuidada após a perda de um ente querido.
+
+3. **Evocando Emoções**
+   - Diferentes emoções podem ser evocadas para diferentes propósitos. Medo, empatia, raiva e felicidade são todas emoções poderosas que podem ser utilizadas para tornar uma mensagem memorável.
+   - Exemplo: Campanhas contra o fumo frequentemente usam medo mostrando as consequências terríveis do tabagismo.
+
+4. **Identidade**
+   - As pessoas são motivadas por sentimentos de identidade e pertencimento. Mensagens que ressoam com a identidade de uma pessoa são mais poderosas.
+   - Exemplo: A campanha "Don't Mess with Texas" usou o orgulho texano para reduzir o lixo nas estradas, apelando ao senso de identidade dos texanos.
+
+5. **Evitar a Abstração**
+   - Para realmente tocar as emoções, é necessário evitar abstrações e focar em detalhes concretos e histórias humanas.
+   - Exemplo: Ao invés de falar sobre "crianças famintas", mostrar uma criança específica, com nome e história, que precisa de ajuda.
+
+#### Histórias Relacionadas
+
+- **The Truth Campaign**
+  - A campanha antitabaco "Truth" usou táticas emocionais para mostrar como as grandes empresas de tabaco enganavam os consumidores. A campanha focou na raiva e indignação para motivar os jovens a parar de fumar.
+
+- **Estudo da Matemática e Popcorn**
+  - Uma história sobre a dificuldade de engajar estudantes em aulas de álgebra é comparada com a campanha de conscientização sobre a gordura no popcorn de cinema. Mostrando o efeito real e emocional das escolhas alimentares com comparações vívidas (como pipoca tendo mais gordura do que um café da manhã completo, um Big Mac e um jantar com bife juntos) torna a mensagem mais impactante.
+
+- **Don't Mess with Texas**
+  - Esta campanha usou o orgulho estadual dos texanos para reduzir o lixo nas estradas, apelando diretamente ao seu senso de identidade. Os anúncios mostravam pessoas icônicas do Texas falando sobre manter o estado limpo, criando uma conexão emocional forte com o público.
+
+#### Conclusão
+
+O capítulo 5 de "Made to Stick" destaca a importância da emoção na criação de ideias memoráveis. Fazer com que as pessoas se importem, utilizando histórias pessoais, apelando à identidade e evocando emoções fortes, é crucial para garantir que uma ideia seja lembrada e tenha um impacto duradouro.
