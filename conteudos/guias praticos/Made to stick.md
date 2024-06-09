@@ -92,3 +92,46 @@ O segundo capítulo de "Made to Stick" aborda o princípio da inesperança, que 
 #### Conclusão
 
 O capítulo 2 de "Made to Stick" enfatiza a importância da inesperança para capturar e manter a atenção. Ao violar as expectativas e criar curiosidade, as ideias se tornam mais memoráveis e eficazes. Usar a surpresa de maneira inteligente e criar gaps de curiosidade são estratégias chave para assegurar que a mensagem permaneça na mente do público.
+
+### Capítulo 3: Concreto
+
+#### Introdução
+O terceiro capítulo de "Made to Stick" explora o princípio da concretude. A ideia é que as pessoas lembram e entendem melhor conceitos que são apresentados de forma concreta e tangível. Coisas abstratas são difíceis de processar, enquanto imagens concretas são mais fáceis de entender e lembrar.
+
+#### Conceitos Principais
+
+1. **Velcro Theory of Memory**
+   - A teoria do Velcro da memória sugere que o cérebro tem múltiplos ganchos para informações concretas.
+   - Ideias concretas se fixam na memória como velcro, enquanto as abstratas escorregam.
+   - Exemplo: Quando um professor usa objetos físicos para ensinar matemática, como maçãs para representar números.
+
+2. **Imagens Vividamente Concretas**
+   - Usar imagens e exemplos concretos ajuda a solidificar conceitos abstratos.
+   - Exemplo: Ensinar a importância da diversidade na biologia usando o exemplo da pele de diferentes animais para mostrar variação genética.
+
+3. **Curva de Esquecimento**
+   - A concretude ajuda a combater a curva de esquecimento, onde as pessoas tendem a esquecer a maioria das informações novas rapidamente.
+   - Exemplo: Demonstrar o impacto da poluição com uma imagem de um peixe morto em um rio poluído é mais memorável do que apenas falar sobre poluição.
+
+4. **Linguagem Concreta**
+   - A linguagem concreta envolve o uso de descrições sensoriais e específicas em vez de termos abstratos.
+   - Exemplo: Descrever um "hambúrguer suculento com queijo derretido e pão macio" é mais eficaz do que dizer apenas "um bom sanduíche".
+
+5. **Dividindo o Abstrato em Concreto**
+   - Grandes conceitos abstratos podem ser divididos em partes concretas menores para melhor compreensão.
+   - Exemplo: Dividir o conceito de democracia em ações específicas como "votação", "debate público", e "participação em conselhos comunitários".
+
+#### Histórias Relacionadas
+
+- **Brown Eyes, Blue Eyes**
+  - Jane Elliott, uma professora de terceiro ano, usou uma experiência concreta para ensinar sobre discriminação. Ela dividiu seus alunos com base na cor dos olhos e tratou-os de forma diferente, tornando a lição sobre preconceito muito mais impactante e memorável.
+
+- **Oral Rehydration Therapy**
+  - A terapia de reidratação oral foi ensinada a mães em áreas rurais usando uma linguagem concreta: "Adicione uma pitada de sal e um punhado de açúcar a um litro de água." Isso salvou milhões de vidas ao tornar um conceito médico abstrato em uma instrução concreta e fácil de seguir.
+
+- **O Efeito Ferraris em Disney World**
+  - Uma história concreta foi usada para descrever como os engenheiros da Disney criaram uma experiência memorável ao fazer uma simulação de conduzir um Ferrari em alta velocidade, mostrando o poder de experiências concretas para engajar e educar.
+
+#### Conclusão
+
+O capítulo 3 de "Made to Stick" destaca a importância de usar a concretude para tornar as ideias mais memoráveis e compreensíveis. Através de exemplos vívidos, linguagem específica e divisão de conceitos abstratos em partes concretas, as ideias se tornam mais "grudentas" e têm um impacto duradouro.
