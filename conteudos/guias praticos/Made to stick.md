@@ -135,3 +135,45 @@ O terceiro capítulo de "Made to Stick" explora o princípio da concretude. A id
 #### Conclusão
 
 O capítulo 3 de "Made to Stick" destaca a importância de usar a concretude para tornar as ideias mais memoráveis e compreensíveis. Através de exemplos vívidos, linguagem específica e divisão de conceitos abstratos em partes concretas, as ideias se tornam mais "grudentas" e têm um impacto duradouro.
+
+### Capítulo 4: Credibilidade
+
+#### Introdução
+O quarto capítulo de "Made to Stick" aborda o princípio da credibilidade. A ideia é que, para que as ideias sejam aceitas e lembradas, elas precisam ser confiáveis e apoiadas por fontes ou provas que as pessoas respeitem.
+
+#### Conceitos Principais
+
+1. **Autoridade e Anti-Autoridade**
+   - As pessoas confiam em figuras de autoridade, mas a credibilidade também pode vir de fontes inesperadas, chamadas de anti-autoridade.
+   - Exemplo: Um médico renomado dá credibilidade a uma recomendação de saúde, enquanto uma pessoa comum com uma experiência impactante (como um ex-fumante com câncer) pode ser igualmente convincente.
+
+2. **Detalhes Concretos**
+   - Detalhes específicos e vívidos aumentam a credibilidade, pois mostram que a pessoa realmente entende do que está falando.
+   - Exemplo: Um vendedor de carro que pode falar detalhadamente sobre o funcionamento interno do motor em vez de apenas dizer que o carro é "bom".
+
+3. **Estatísticas**
+   - Estatísticas bem apresentadas podem aumentar a credibilidade, mas precisam ser usadas de forma que façam sentido para o público.
+   - Exemplo: Comparar o número de calorias em uma pipoca de cinema com a quantidade de gordura em um Big Mac para demonstrar a quantidade exagerada de calorias.
+
+4. **O Teste Sinatra**
+   - Se você pode provar sua ideia com um exemplo tão forte que uma única instância faz seu caso, isso aumenta significativamente a credibilidade.
+   - Exemplo: "Se eu posso fazer isso em Nova York, posso fazer isso em qualquer lugar" (referência à música de Frank Sinatra), usada para mostrar que um sistema de segurança funcionou em uma das cidades mais difíceis do mundo.
+
+5. **Testemunhos e Narrativas**
+   - Testemunhos pessoais e histórias de vida real são formas poderosas de construir credibilidade.
+   - Exemplo: A campanha publicitária da Subway com Jared, um homem que perdeu 200 quilos comendo sanduíches Subway, usando sua história pessoal para validar a eficácia dos produtos da marca.
+
+#### Histórias Relacionadas
+
+- **Pam Laffin, a Anti-Autoridade**
+  - Uma ex-fumante que sofreu com graves problemas de saúde devido ao tabagismo, Pam Laffin apareceu em campanhas antitabaco compartilhando sua experiência pessoal, tornando a mensagem mais crível e impactante do que estatísticas frias.
+
+- **Shark Attack Hysteria**
+  - Histórias detalhadas de ataques de tubarão foram usadas para aumentar a conscientização sobre segurança no mar, com detalhes concretos que tornaram as histórias memoráveis e convincentes.
+
+- **O Teste Sinatra com o MTA**
+  - Um exemplo de credibilidade usado no livro é o sistema de pagamento MetroCard em Nova York. Se funcionou no complexo sistema de transporte público da cidade, poderia funcionar em qualquer lugar, aumentando a confiança no projeto.
+
+#### Conclusão
+
+O capítulo 4 de "Made to Stick" enfatiza a importância da credibilidade para tornar as ideias mais persuasivas e memoráveis. Usar autoridades, detalhes concretos, estatísticas relevantes, exemplos impactantes e testemunhos pessoais são estratégias eficazes para construir credibilidade e fazer com que as ideias "grudem".
