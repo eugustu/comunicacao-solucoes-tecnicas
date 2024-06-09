@@ -143,8 +143,3 @@ Ros Atkins menciona um workshop onde ele pediu feedback detalhado dos participan
 ### Implementação de Sugestões
 - **Definição**: Fazer mudanças concretas nas futuras explicações com base no feedback recebido.
 - **Exemplo**: Se várias pessoas mencionaram que a apresentação foi muito rápida, considerar desacelerar e adicionar mais pausas.
-
-
-
-
-Oi Hagatta!
