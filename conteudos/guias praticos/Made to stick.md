@@ -265,3 +265,62 @@ O sexto capítulo de "Made to Stick" explora o princípio das histórias. Contar
 #### Conclusão
 
 O capítulo 6 de "Made to Stick" destaca o poder das histórias para fazer ideias memoráveis e inspirar ações. Ao usar histórias concretas, emocionais e relevantes, as pessoas podem transmitir mensagens complexas de maneira compreensível e impactante. As histórias não apenas engajam o público, mas também servem como ferramentas eficazes de aprendizagem e inspiração.
+
+### Referência Rápida: Tornando Ideias Grudentas
+
+#### Introdução
+A seção de referência rápida de "Made to Stick" serve como um guia prático para aplicar os princípios discutidos no livro. Esta seção oferece uma recapitulação dos seis princípios SUCCESs e fornece exemplos específicos e dicas práticas para tornar as ideias mais memoráveis e impactantes.
+
+#### Conceitos Principais
+
+1. **Simplicidade**
+   - **Encontrar o núcleo da ideia**: Reduza sua mensagem à essência central.
+   - **Uso de Provérbios**: Crie ideias que são simples e profundas.
+   - **Exemplo**: "É a economia, estúpido" da campanha de Bill Clinton, que focou em um único ponto central.
+
+2. **Inesperado**
+   - **Quebrar padrões**: Capture a atenção violando expectativas.
+   - **Criar surpresa e curiosidade**: Use elementos inesperados para gerar interesse contínuo.
+   - **Exemplo**: Campanhas publicitárias que começam de maneira previsível e introduzem um elemento surpreendente.
+
+3. **Concreto**
+   - **Detalhes sensoriais**: Use exemplos específicos e tangíveis.
+   - **Evite abstrações**: Torne as ideias palpáveis e fáceis de visualizar.
+   - **Exemplo**: Descrever um "hambúrguer suculento com queijo derretido" em vez de apenas "um bom sanduíche".
+
+4. **Credibilidade**
+   - **Autoridade e Anti-Autoridade**: Utilize figuras de autoridade e testemunhos pessoais.
+   - **Estatísticas e Detalhes Concretos**: Apresente dados de forma significativa e compreensível.
+   - **Exemplo**: O uso de um ex-fumante em campanhas antitabaco para aumentar a credibilidade.
+
+5. **Emocional**
+   - **Apelo às emoções**: Faça com que as pessoas se importem.
+   - **Identidade e pertencimento**: Conecte a ideia à identidade do público.
+   - **Exemplo**: A campanha "Don't Mess with Texas" que apelou ao orgulho estadual para reduzir o lixo.
+
+6. **Histórias**
+   - **Contar histórias envolventes**: Use narrativas para ensinar e inspirar.
+   - **Tipos de histórias**: Desafios, conexões e criatividade.
+   - **Exemplo**: A história de Jared e a Subway, que inspirou muitas pessoas a seguir um caminho de perda de peso saudável.
+
+#### Dicas Práticas e Exemplos
+
+1. **Revisar e Refinar**
+   - **Avalie sua mensagem**: Verifique se ela é simples, inesperada, concreta, credível, emocional e baseada em histórias.
+   - **Simplifique sempre que possível**: Remova elementos desnecessários para destacar o núcleo da ideia.
+
+2. **Utilizar Testemunhos**
+   - **Incorpore relatos pessoais**: Use histórias reais para validar suas ideias.
+   - **Escolha exemplos impactantes**: Priorize testemunhos que causem uma forte impressão emocional.
+
+3. **Criar Ganchos Emocionais**
+   - **Identifique a emoção certa**: Determine qual emoção melhor suporta sua mensagem.
+   - **Construa uma conexão emocional**: Faça seu público sentir algo forte sobre sua ideia.
+
+4. **Testar e Ajustar**
+   - **Experimente com seu público**: Teste diferentes versões de sua mensagem para ver qual é mais eficaz.
+   - **Ajuste conforme o feedback**: Use o feedback do público para refinar ainda mais sua mensagem.
+
+#### Conclusão
+
+A seção de referência rápida de "Made to Stick" oferece uma ferramenta prática para aplicar os seis princípios SUCCESs em qualquer mensagem. Ao seguir estas diretrizes, é possível garantir que suas ideias sejam claras, memoráveis e impactantes, inspirando o público a agir e lembrar.
