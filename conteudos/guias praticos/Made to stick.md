@@ -46,3 +46,49 @@ O primeiro capítulo de "Made to Stick" explora o conceito de simplicidade, um d
 #### Conclusão
 
 O capítulo 1 de "Made to Stick" destaca a importância da simplicidade para criar ideias que são facilmente compreendidas, lembradas e executadas. Encontrar o núcleo da ideia e comunicá-la de maneira clara e direta é fundamental para superar a complexidade e a paralisia de decisão.
+
+### Capítulo 2: Inesperado
+
+#### Introdução
+O segundo capítulo de "Made to Stick" aborda o princípio da inesperança, que envolve capturar e manter a atenção das pessoas ao surpreendê-las e criar curiosidade. A ideia é violar as expectativas das pessoas para despertar interesse e garantir que a mensagem seja lembrada.
+
+#### Conceitos Principais
+
+1. **Quebrando a Máquina de Adivinhação**
+   - O cérebro humano é uma máquina de adivinhação, constantemente fazendo previsões sobre o que vem a seguir.
+   - Para capturar a atenção, uma ideia precisa violar essas expectativas.
+   - Exemplo: A Southwest Airlines mantendo o estilo casual e divertido em seus anúncios e serviços, surpreendendo os passageiros acostumados com companhias aéreas mais formais.
+
+2. **Surpresa**
+   - Surpresa é um mecanismo poderoso para captar atenção, pois ela força o cérebro a focar.
+   - Entretanto, a surpresa por si só não é suficiente; ela deve ser integrada a uma mensagem para ser memorável.
+   - Exemplo: Uma campanha de segurança aérea que começa de maneira padrão e então surpreende os passageiros com uma performance teatral inesperada para passar a mensagem de segurança.
+
+3. **O Efeito Wow**
+   - Histórias que começam de forma comum e depois introduzem um elemento inesperado são mais memoráveis.
+   - Exemplo: O anúncio de uma escola que anunciou a suspensão das aulas na próxima quinta-feira para surpresa dos alunos e pais, apenas para revelar depois que isso era uma jogada de marketing.
+
+4. **Teoria do Gap de Curiosidade**
+   - A curiosidade é criada quando há uma lacuna (gap) entre o que sabemos e o que queremos saber.
+   - Efetivas mensagens inesperadas abrem essas lacunas e depois as preenchem.
+   - Exemplo: Um professor que inicia uma aula com uma pergunta intrigante que os alunos não sabem responder, criando um gap que mantém os alunos curiosos até que a resposta seja revelada.
+
+5. **Manter a Atenção**
+   - Para manter a atenção após a surpresa inicial, é necessário criar um interesse duradouro.
+   - Isso pode ser feito através de uma narrativa envolvente ou apresentando informações gradualmente.
+   - Exemplo: A campanha publicitária da Apple que revela pouco a pouco os detalhes de um novo produto, mantendo o público ansioso por mais informações.
+
+#### Histórias Relacionadas
+
+- **Campanha de Segurança Aérea**
+  - Uma companhia aérea transformou seus anúncios de segurança entediantes em performances teatrais inesperadas, capturando a atenção dos passageiros e assegurando que as instruções fossem lembradas.
+
+- **Efeito Wow na Educação**
+  - Um professor de biologia começa a aula com a dissecação de um pomelo (uma fruta), inesperadamente revelando como isso se relaciona com a anatomia de um mamífero, criando um momento surpreendente e memorável para os alunos.
+
+- **Anúncio de Suspensão das Aulas**
+  - Uma escola anunciou uma suspensão inesperada das aulas, criando alvoroço. Mais tarde, revelou-se que era uma tática para atrair atenção para um novo programa educacional, usando o elemento surpresa para envolver a comunidade escolar.
+
+#### Conclusão
+
+O capítulo 2 de "Made to Stick" enfatiza a importância da inesperança para capturar e manter a atenção. Ao violar as expectativas e criar curiosidade, as ideias se tornam mais memoráveis e eficazes. Usar a surpresa de maneira inteligente e criar gaps de curiosidade são estratégias chave para assegurar que a mensagem permaneça na mente do público.
